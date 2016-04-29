@@ -18,7 +18,7 @@ saveDialog.xmlInfo.width,Width,寬度,宽度,Largeur
 saveDialog.xmlInfo.height,Height,高度,高度,Hauteur
 saveDialog.xmlInfo.frameRate,Frame Rate,幀速,帧速率,Fréquence Image
 saveDialog.copyFromHereLabel,Copy from here,由此復制,由此复制,Copier d'ici
-saveDialog.cacnel,Cacnel,取消,取消,Annuler
+saveDialog.cancel,Cancel,取消,取消,Annuler
 saveDialog.saveAs,Save As...,存儲...,导出...,Enregistrer
 saveDialog.safariPrompt.fcp7,Press ⌘+S and save as 1.xml in the next page!,在下一頁按⌘+S儲存為1.xml !,在下一页按⌘+S保存为1.xml !,Appuyez sur ⌘ + S et enregistrer en tant que 1.xml dans la page suivante!
 saveDialog.safariPrompt.fcpx,Press ⌘+S and save as 1.fcpxml in the next page!,在下一頁按⌘+S儲存為1.fcpxml !,在下一页按⌘+S保存为1.fcpxml !,Appuyez sur ⌘ + S et enregistrer en tant que 1.fcpxml dans la page suivante!
